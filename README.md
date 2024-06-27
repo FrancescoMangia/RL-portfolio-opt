@@ -28,7 +28,7 @@ Results
 
 # Future Work
 
-Application to other markets (e.g., cryptocurrencies) and financial instruments
-Investigation of model interpretability
-Exploration of different RL algorithms and data preprocessing techniques
+- Application to other markets (e.g., cryptocurrencies) and financial instruments
+- Investigation of model interpretability
+- Exploration of different RL algorithms and data preprocessing techniques
 
